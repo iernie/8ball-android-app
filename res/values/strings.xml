@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">8ball</string>
+    <string name="title">Enter two or more alternatives</string>
+    <string name="submit">Ask once</string>
+    <string name="bestof3">Best of three</string>
+    <string name="result">The answer to your question is:</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="about_text">Have you ever had trouble deciding what to do? This app was made so that you easily can decide by getting a decision from an impartial party.\n\nThis application is made for entertainment purpose only. In the end, you can decide for your own if you want to follow its decision. You are responsible for your own actions.\n\nMade by Kwarkbit (kwarkbit.com)\n(c) 2011</string>
+    <string name="help_text">Enter two or more alternatives you want to pick among and separate them with a colon (:)\n\nFor example: go to city:do homework\n\nThe application then selects one of the alternatives randomly.</string>
+</resources>
